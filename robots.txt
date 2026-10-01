@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://natansffo8-afk.github.io/tesla-Maquinas/sitemap.xml
